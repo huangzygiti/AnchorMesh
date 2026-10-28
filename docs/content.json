@@ -5,7 +5,7 @@
     "anonymous": true,
     "authors": [],
     "paperUrl": null,
-    "codeUrl": null,
+    "codeUrl": "https://github.com/huangzygiti/AnchorMesh",
     "modelUrl": null,
     "bibtex": null,
     "intro": "AnchorMesh preserves source vertex cues before compression for artistic mesh reconstruction and point-cloud-conditioned generation. AnchorVAE jointly learns mesh geometry and connectivity, while MM-DiT models rectified flow in the mesh latent space."
